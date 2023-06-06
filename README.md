@@ -1,6 +1,11 @@
 ### 😎 Nice to see you here 👋
  I'm Sahjahan, Frontend React 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh. ➕ I like to experiment a lot!
+ <a href="https://www.facebook.com/sahjahan.sunju/"> Facebook </a> 
  
+ 🔥🔥 Places I have been
+Software Engineer at  ThemeXpert working on  ThriveDesk
+Software Developer at  Vanila.io and Co founder of  Automatio
+Founder of  Code Eating Ants and created multiple courses amd taught a few developers from scratch
 <!--
 **SahjahanReza006c/SahjahanReza006c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
