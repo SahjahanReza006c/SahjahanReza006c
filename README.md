@@ -1,5 +1,6 @@
 ### 😎 Nice to see you here 👋
  I'm Sahjahan, Frontend React 🧑‍💻️ developer from 🇧🇩 Dhaka, Bangladesh. ➕ I like to experiment a lot!
+ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email Badge
 <!--
 **SahjahanReza006c/SahjahanReza006c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
